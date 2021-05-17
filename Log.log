@@ -1,0 +1,274 @@
+2021-05-16 13:52:43,252 INFO  [Browser] Browser : Chrome
+2021-05-16 13:52:43,252 INFO  [Browser] OS Arch : x86_64
+2021-05-16 13:52:43,252 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 13:53:14,618 INFO  [Browser] Browser : Chrome
+2021-05-16 13:53:14,618 INFO  [Browser] OS Arch : x86_64
+2021-05-16 13:53:14,618 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 13:53:41,407 INFO  [Browser] Browser : Chrome
+2021-05-16 13:53:41,407 INFO  [Browser] OS Arch : x86_64
+2021-05-16 13:53:41,407 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 13:54:50,062 INFO  [Browser] Browser : Chrome
+2021-05-16 13:54:50,062 INFO  [Browser] OS Arch : x86_64
+2021-05-16 13:54:50,062 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 13:56:53,409 INFO  [Browser] Browser : Chrome
+2021-05-16 13:56:53,409 INFO  [Browser] OS Arch : x86_64
+2021-05-16 13:56:53,409 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:14:01,090 INFO  [Browser] Browser : Chrome
+2021-05-16 14:14:01,090 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:14:01,090 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:15:32,542 INFO  [Browser] Browser : Chrome
+2021-05-16 14:15:32,543 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:15:32,543 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:15:37,759 INFO  [Browser] Maximize window
+2021-05-16 14:15:37,891 INFO  [Browser] Opening URL : https://www.libertymutual.com/
+2021-05-16 14:15:49,597 INFO  [Pages] Click On Log In
+2021-05-16 14:15:51,133 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 14:15:51,254 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 14:15:51,384 INFO  [Pages] Click On log in
+2021-05-16 14:15:55,802 INFO  [Pages] Click On LogOut
+2021-05-16 14:49:17,399 INFO  [Browser] Browser : Chrome
+2021-05-16 14:49:17,399 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:49:17,399 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:49:19,319 INFO  [Browser] Maximize window
+2021-05-16 14:49:19,452 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 14:49:24,816 INFO  [Pages] Click On Log In
+2021-05-16 14:50:29,740 INFO  [Browser] Browser : Chrome
+2021-05-16 14:50:29,741 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:50:29,741 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:50:31,538 INFO  [Browser] Maximize window
+2021-05-16 14:50:31,671 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 14:50:40,642 INFO  [Pages] Click On Log In
+2021-05-16 14:50:42,026 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 14:50:42,130 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 14:50:42,476 INFO  [Pages] Click On log in
+2021-05-16 14:52:06,377 INFO  [Browser] Browser : Chrome
+2021-05-16 14:52:06,377 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:52:06,377 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:52:08,201 INFO  [Browser] Maximize window
+2021-05-16 14:52:08,335 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 14:52:13,023 INFO  [Pages] Click On Log In
+2021-05-16 14:52:13,543 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 14:52:13,650 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 14:52:13,753 INFO  [Pages] Click On log in
+2021-05-16 14:54:33,073 INFO  [Browser] Browser : Chrome
+2021-05-16 14:54:33,073 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:54:33,073 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:54:34,874 INFO  [Browser] Maximize window
+2021-05-16 14:54:35,023 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 14:54:37,152 INFO  [Pages] Click On Log In
+2021-05-16 14:54:38,407 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 14:54:38,507 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 14:54:38,853 INFO  [Pages] Click On log in
+2021-05-16 14:56:54,250 INFO  [Browser] Browser : Chrome
+2021-05-16 14:56:54,250 INFO  [Browser] OS Arch : x86_64
+2021-05-16 14:56:54,250 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 14:56:56,122 INFO  [Browser] Maximize window
+2021-05-16 14:56:56,256 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 14:56:58,088 INFO  [Pages] Click On Log In
+2021-05-16 14:56:59,320 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 14:56:59,414 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 14:56:59,675 INFO  [Pages] Click On log in
+2021-05-16 15:03:10,439 INFO  [Browser] Browser : Chrome
+2021-05-16 15:03:10,440 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:03:10,440 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:03:12,428 INFO  [Browser] Maximize window
+2021-05-16 15:03:12,576 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:03:15,152 INFO  [Pages] Click On Log In
+2021-05-16 15:03:16,578 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:03:16,682 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:03:17,010 INFO  [Pages] Click On log in
+2021-05-16 15:32:04,601 INFO  [Browser] Browser : Chrome
+2021-05-16 15:32:04,601 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:32:04,601 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:32:06,473 INFO  [Browser] Maximize window
+2021-05-16 15:32:06,606 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:32:08,765 INFO  [Pages] Click On Log In
+2021-05-16 15:32:09,515 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:32:10,054 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:32:10,336 INFO  [Pages] Click On log in
+2021-05-16 15:34:06,646 INFO  [Browser] Browser : Chrome
+2021-05-16 15:34:06,646 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:34:06,646 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:34:08,500 INFO  [Browser] Maximize window
+2021-05-16 15:34:08,633 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:34:10,639 INFO  [Pages] Click On Log In
+2021-05-16 15:34:11,832 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:34:11,927 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:34:12,275 INFO  [Pages] Click On log in
+2021-05-16 15:45:52,232 INFO  [Browser] Browser : Chrome
+2021-05-16 15:45:52,232 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:45:52,233 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:45:54,170 INFO  [Browser] Maximize window
+2021-05-16 15:45:54,307 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:46:01,982 INFO  [Pages] Click On Log In
+2021-05-16 15:46:02,606 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:46:02,707 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:46:02,997 INFO  [Pages] Click On log in
+2021-05-16 15:46:56,037 INFO  [Browser] Browser : Chrome
+2021-05-16 15:46:56,038 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:46:56,038 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:46:57,968 INFO  [Browser] Maximize window
+2021-05-16 15:46:58,116 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:47:14,937 INFO  [Pages] Click On Log In
+2021-05-16 15:47:16,143 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:47:16,256 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:47:16,582 INFO  [Pages] Click On log in
+2021-05-16 15:48:56,006 INFO  [Browser] Browser : Chrome
+2021-05-16 15:48:56,006 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:48:56,007 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:48:57,652 INFO  [Browser] Maximize window
+2021-05-16 15:48:57,788 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:48:59,964 INFO  [Pages] Click On Log In
+2021-05-16 15:49:00,433 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:49:00,535 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:49:01,016 INFO  [Pages] Click On log in
+2021-05-16 15:49:08,542 INFO  [Browser] Browser : Chrome
+2021-05-16 15:49:08,543 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:49:08,543 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:49:10,011 INFO  [Browser] Maximize window
+2021-05-16 15:49:10,144 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:49:12,251 INFO  [Pages] Click On Log In
+2021-05-16 15:49:12,737 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:49:12,860 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:49:13,512 INFO  [Pages] Click On log in
+2021-05-16 15:50:15,582 INFO  [Browser] Browser : Chrome
+2021-05-16 15:50:15,582 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:50:15,583 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:50:17,088 INFO  [Browser] Maximize window
+2021-05-16 15:50:17,221 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:50:22,325 INFO  [Pages] Click On Log In
+2021-05-16 15:50:23,563 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:50:23,658 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:50:24,005 INFO  [Pages] Click On log in
+2021-05-16 15:50:38,166 INFO  [Browser] Browser : Chrome
+2021-05-16 15:50:38,167 INFO  [Browser] OS Arch : x86_64
+2021-05-16 15:50:38,167 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 15:50:39,662 INFO  [Browser] Maximize window
+2021-05-16 15:50:39,794 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 15:50:41,745 INFO  [Pages] Click On Log In
+2021-05-16 15:50:42,503 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 15:50:42,597 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 15:50:43,068 INFO  [Pages] Click On log in
+2021-05-16 16:00:19,004 INFO  [Browser] Browser : Chrome
+2021-05-16 16:00:19,004 INFO  [Browser] OS Arch : x86_64
+2021-05-16 16:00:19,005 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 16:00:20,557 INFO  [Browser] Maximize window
+2021-05-16 16:00:20,690 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 16:00:25,541 INFO  [Pages] Click On Log In
+2021-05-16 16:00:26,902 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 16:00:27,013 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 16:00:27,402 INFO  [Pages] Click On log in
+2021-05-16 16:08:30,950 INFO  [Browser] Browser : Chrome
+2021-05-16 16:08:30,951 INFO  [Browser] OS Arch : x86_64
+2021-05-16 16:08:30,951 INFO  [Browser] OS Name : Mac OS X
+2021-05-16 16:08:32,634 INFO  [Browser] Maximize window
+2021-05-16 16:08:32,768 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-16 16:08:35,036 INFO  [Pages] Click On Log In
+2021-05-16 16:08:36,317 INFO  [Pages] Value Enter To Filed UserName
+2021-05-16 16:08:36,427 INFO  [Pages] Value Enter To Filed Password
+2021-05-16 16:08:36,833 INFO  [Pages] Click On log in
+2021-05-17 06:14:17,048 INFO  [Browser] Browser : Chrome
+2021-05-17 06:14:17,048 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:14:17,048 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:14:29,045 INFO  [Browser] Maximize window
+2021-05-17 06:14:29,214 INFO  [Browser] Opening URL : https://www.libertymutual.com/
+2021-05-17 06:18:59,084 INFO  [Browser] Browser : Chrome
+2021-05-17 06:18:59,084 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:18:59,084 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:19:01,006 INFO  [Browser] Maximize window
+2021-05-17 06:19:01,139 INFO  [Browser] Opening URL : https://www.libertymutual.com/
+2021-05-17 06:20:30,028 INFO  [Browser] Browser : Chrome
+2021-05-17 06:20:30,029 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:20:30,029 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:20:31,927 INFO  [Browser] Maximize window
+2021-05-17 06:20:32,066 INFO  [Browser] Opening URL : https://www.libertymutual.com/
+2021-05-17 06:22:29,605 INFO  [Browser] Browser : Chrome
+2021-05-17 06:22:29,605 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:22:29,605 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:22:31,532 INFO  [Browser] Maximize window
+2021-05-17 06:22:31,669 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 06:22:40,660 INFO  [Pages] Click On Log In
+2021-05-17 06:22:41,256 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 06:22:41,415 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 06:22:42,575 INFO  [Pages] Click On log in
+2021-05-17 06:36:47,664 INFO  [Browser] Browser : Chrome
+2021-05-17 06:36:47,665 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:36:47,665 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:36:50,647 INFO  [Browser] Maximize window
+2021-05-17 06:36:50,830 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 06:37:08,045 INFO  [Pages] Click On Log In
+2021-05-17 06:37:09,962 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 06:37:10,091 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 06:37:10,590 INFO  [Pages] Click On log in
+2021-05-17 06:48:06,323 INFO  [Browser] Browser : Chrome
+2021-05-17 06:48:06,324 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:48:06,324 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:48:09,386 INFO  [Browser] Maximize window
+2021-05-17 06:48:09,551 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 06:48:13,138 INFO  [Pages] Click On Log In
+2021-05-17 06:48:14,067 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 06:48:14,193 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 06:48:14,558 INFO  [Pages] Click On log in
+2021-05-17 06:48:37,475 INFO  [Browser] Browser : Chrome
+2021-05-17 06:48:37,476 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:48:37,476 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:48:39,510 INFO  [Browser] Maximize window
+2021-05-17 06:48:39,693 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 06:48:44,917 INFO  [Pages] Click On Log In
+2021-05-17 06:48:45,377 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 06:48:46,075 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 06:48:46,536 INFO  [Pages] Click On log in
+2021-05-17 06:57:01,138 INFO  [Browser] Browser : Chrome
+2021-05-17 06:57:01,139 INFO  [Browser] OS Arch : x86_64
+2021-05-17 06:57:01,139 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 06:57:03,678 INFO  [Browser] Maximize window
+2021-05-17 06:57:03,874 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 06:57:08,289 INFO  [Pages] Click On Log In
+2021-05-17 06:57:10,001 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 06:57:10,125 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 06:57:10,601 INFO  [Pages] Click On log in
+2021-05-17 08:24:44,493 INFO  [Browser] Browser : Chrome
+2021-05-17 08:24:44,493 INFO  [Browser] OS Arch : x86_64
+2021-05-17 08:24:44,494 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 08:24:46,484 INFO  [Browser] Maximize window
+2021-05-17 08:24:46,619 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 08:24:51,393 INFO  [Pages] Click On Log In
+2021-05-17 08:24:52,166 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 08:24:52,371 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 08:24:53,135 INFO  [Pages] Click On log in
+2021-05-17 08:44:13,069 INFO  [Browser] Browser : Chrome
+2021-05-17 08:44:13,069 INFO  [Browser] OS Arch : x86_64
+2021-05-17 08:44:13,069 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 08:44:14,910 INFO  [Browser] Maximize window
+2021-05-17 08:44:15,072 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 08:44:23,449 INFO  [Pages] Click On Log In
+2021-05-17 08:44:24,817 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 08:44:24,911 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 08:44:25,269 INFO  [Pages] Click On log in
+2021-05-17 09:02:33,276 INFO  [Browser] Browser : Chrome
+2021-05-17 09:02:33,277 INFO  [Browser] OS Arch : x86_64
+2021-05-17 09:02:33,277 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 09:02:36,280 INFO  [Browser] Maximize window
+2021-05-17 09:02:36,443 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 09:02:41,471 INFO  [Pages] Click On Log In
+2021-05-17 09:02:42,211 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 09:02:42,336 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 09:02:42,637 INFO  [Pages] Click On log in
+2021-05-17 09:09:55,754 INFO  [Browser] Browser : Chrome
+2021-05-17 09:09:55,755 INFO  [Browser] OS Arch : x86_64
+2021-05-17 09:09:55,755 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 09:09:58,014 INFO  [Browser] Maximize window
+2021-05-17 09:09:58,155 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 09:10:03,791 INFO  [Pages] Click On Log In
+2021-05-17 09:10:04,703 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 09:10:04,795 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 09:10:05,103 INFO  [Pages] Click On log in
+2021-05-17 09:11:53,371 INFO  [Browser] Browser : Chrome
+2021-05-17 09:11:53,372 INFO  [Browser] OS Arch : x86_64
+2021-05-17 09:11:53,372 INFO  [Browser] OS Name : Mac OS X
+2021-05-17 09:11:55,673 INFO  [Browser] Maximize window
+2021-05-17 09:11:55,863 INFO  [Browser] Opening URL : https://provider.linkhealth.com/#/
+2021-05-17 09:12:01,180 INFO  [Pages] Click On Log In
+2021-05-17 09:12:02,076 INFO  [Pages] Value Enter To Filed UserName
+2021-05-17 09:12:02,191 INFO  [Pages] Value Enter To Filed Password
+2021-05-17 09:12:02,496 INFO  [Pages] Click On log in

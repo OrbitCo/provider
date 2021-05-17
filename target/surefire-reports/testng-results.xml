@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LibertyMutual Automation" duration-ms="9269" started-at="2021-05-17T14:11:53Z" finished-at="2021-05-17T14:12:02Z">
+    <groups>
+    </groups>
+    <test name="UserLogIn Journey" duration-ms="9269" started-at="2021-05-17T14:11:53Z" finished-at="2021-05-17T14:12:02Z">
+      <class name="com.project.testscripts.LoginScript">
+        <test-method status="PASS" signature="setUpApp(java.lang.String, java.lang.String)[pri:0, instance:com.project.testscripts.LoginScript@4cb2c100]" name="setUpApp" is-config="true" duration-ms="4468" started-at="2021-05-17T09:11:53Z" finished-at="2021-05-17T09:11:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://provider.linkhealth.com/#/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApp -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.project.testscripts.LoginScript@4cb2c100]" name="loadPage" is-config="true" duration-ms="18" started-at="2021-05-17T09:11:57Z" finished-at="2021-05-17T09:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="signInToLibertyMutual()[pri:0, instance:com.project.testscripts.LoginScript@4cb2c100]" name="signInToLibertyMutual" duration-ms="4665" started-at="2021-05-17T09:11:57Z" finished-at="2021-05-17T09:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInToLibertyMutual -->
+        <test-method status="PASS" signature="killApp()[pri:0, instance:com.project.testscripts.LoginScript@4cb2c100]" name="killApp" is-config="true" duration-ms="106" started-at="2021-05-17T09:12:02Z" finished-at="2021-05-17T09:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killApp -->
+      </class> <!-- com.project.testscripts.LoginScript -->
+    </test> <!-- UserLogIn Journey -->
+  </suite> <!-- LibertyMutual Automation -->
+</testng-results>
